@@ -22,4 +22,4 @@ Currently exploring budget-constrained adaptive resolution scheduling: allocatin
 
 ### Contact
 
-[Email](mailto:moatassimbarakat@gmail.com) or (mailto:developedbymoe@gmail.com)
+[EMAIL 1](mailto:moatassimbarakat@gmail.com) or [EMAIL 2](mailto:developedbymoe@gmail.com)
