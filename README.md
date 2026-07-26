@@ -1,16 +1,25 @@
-## Hi there 👋
+# Barakat Moatassim
 
-<!--
-**moakun/moakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moroccan software engineer and computer science researcher.
 
-Here are some ideas to get you started:
+I work on **computer vision** — small-target detection in UAV imagery, and real-time perception systems built on webcams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Research
+
+**MEISCF** *(in publication)* — small-target detection for UAV imagery, combining MEIS-YOLO and CF-YOLO with multi-resolution training and inference.
+
+Currently exploring budget-constrained adaptive resolution scheduling: allocating a fixed tile budget under a hard latency constraint, based on predicted detection gain rather than objectness.
+
+---
+
+### Stack
+
+`Python` `PyTorch` `OpenCV` `MediaPipe` `YOLO` `ONNX` `TensorRT` `TypeScript` `React Native` `Expo`
+
+---
+
+### Contact
+
+[Email](mailto:moatassimbarakat@gmail.com) or (mailto:developedbymoe@gmail.com)
