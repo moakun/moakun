@@ -1,6 +1,6 @@
 # Barakat Moatassim
 
-Moroccan software engineer and computer science researcher.
+Software engineer and computer science researcher.
 
 I work on **computer vision** — small-target detection in UAV imagery, and real-time perception systems built on webcams.
 
