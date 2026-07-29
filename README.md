@@ -16,10 +16,10 @@ Currently exploring budget-constrained adaptive resolution scheduling: allocatin
 
 ### Stack
 
-`Python` `PyTorch` `OpenCV` `MediaPipe` `YOLO` `ONNX` `TensorRT` `TypeScript` `React Native` `Expo`
+`Python` `PyTorch` `OpenCV` `MediaPipe` `YOLO` `ONNX` `TensorRT` `TypeScript` `React` `NextJs` `MySQL, MongoDB, PostgreSQL`
 
 ---
 
 ### Contact
 
-[EMAIL 1: moatassimbarakat@gmail.com](mailto:moatassimbarakat@gmail.com) or [EMAIL 2: developedbymoe@gmail.com](mailto:developedbymoe@gmail.com)
+[Email 1: moatassimbarakat@gmail.com](mailto:moatassimbarakat@gmail.com) or [Email 2: developedbymoe@gmail.com](mailto:developedbymoe@gmail.com)
