@@ -16,7 +16,7 @@ Currently exploring budget-constrained adaptive resolution scheduling: allocatin
 
 ### Stack
 
-`Python` `PyTorch` `OpenCV` `MediaPipe` `YOLO` `ONNX` `TensorRT` `TypeScript` `React` `NextJs` `MySQL, MongoDB, PostgreSQL`
+`Python` `Java` `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `YOLO` `ONNX` `TensorRT` `TypeScript` `JavaScript` `ReactJs` `NextJs` `MySQL, MongoDB, PostgreSQL`
 
 ---
 
